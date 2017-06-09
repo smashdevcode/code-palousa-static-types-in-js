@@ -1,5 +1,5 @@
 
-# Code Palousa
+# Code PaLOUsa
 
 ## Hey... You Got Static Types in My JavaScript!
 
